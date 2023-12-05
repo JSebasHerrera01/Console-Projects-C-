@@ -1,0 +1,13 @@
+C:\Users\ESTACION\Desktop\Proyectos de Consola\Solucion_Menu\Solucion_Menu\bin\Debug\Solucion_Menu.exe.config
+C:\Users\ESTACION\Desktop\Proyectos de Consola\Solucion_Menu\Solucion_Menu\bin\Debug\Solucion_Menu.exe
+C:\Users\ESTACION\Desktop\Proyectos de Consola\Solucion_Menu\Solucion_Menu\bin\Debug\Solucion_Menu.pdb
+C:\Users\ESTACION\Desktop\Proyectos de Consola\Solucion_Menu\Solucion_Menu\obj\Debug\Solucion_Menu.exe
+C:\Users\ESTACION\Desktop\Proyectos de Consola\Solucion_Menu\Solucion_Menu\obj\Debug\Solucion_Menu.pdb
+C:\Users\ESTACION\Desktop\Proyectos de Consola\Solucion_Menu\Solucion_Menu\obj\Debug\Solucion_Menu.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian Herrera\Desktop\Proyectos de Consola\Solucion_Menu\Solucion_Menu\bin\Debug\Solucion_Menu.exe.config
+C:\Users\Sebastian Herrera\Desktop\Proyectos de Consola\Solucion_Menu\Solucion_Menu\bin\Debug\Solucion_Menu.exe
+C:\Users\Sebastian Herrera\Desktop\Proyectos de Consola\Solucion_Menu\Solucion_Menu\bin\Debug\Solucion_Menu.pdb
+C:\Users\Sebastian Herrera\Desktop\Proyectos de Consola\Solucion_Menu\Solucion_Menu\obj\Debug\Solucion_Menu.csproj.AssemblyReference.cache
+C:\Users\Sebastian Herrera\Desktop\Proyectos de Consola\Solucion_Menu\Solucion_Menu\obj\Debug\Solucion_Menu.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Herrera\Desktop\Proyectos de Consola\Solucion_Menu\Solucion_Menu\obj\Debug\Solucion_Menu.exe
+C:\Users\Sebastian Herrera\Desktop\Proyectos de Consola\Solucion_Menu\Solucion_Menu\obj\Debug\Solucion_Menu.pdb
